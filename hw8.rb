@@ -159,9 +159,7 @@ if house == "1"
   around finding nothing of interest. All of a sudden you hear a faint noise
   coming from upstairs."
 elsif house == "2"
-  puts "You notice a man standing along the side of the road. You catch
-  his attention. As you get closer he puts his hand inside his coat pocket.
-  He hands you a check for a million dollars."
+  puts "You notice a man standing along the side of the road...."
      end
    end
  end
